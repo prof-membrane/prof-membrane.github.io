@@ -1,0 +1,35 @@
+##Willkommen zu meinem Kodi Repository
+Dieses Repository beinhaltet zahlreiche Video Add-ons für das Kodi Mediacenter (www.kodi.tv). Das Hauptaugenmerk liegt dabei auf den verschiedenen Mediatheken des öffentlich rechtlichen Fernsehens. Die Add-ons bilden die Funktionsweise von Web-, Android- und HbbTV-Mediatheken nach und macht deren Inhalte auf Kodi zugänglich.
+
+All diese Add-ons werden nicht von den Sendeanstalten unterstützt und sind daher inoffiziell. Das bedeutet vorallem, dass es jederzeit unangekündigte Einschränkungen in der Funktionsweise geben könnte, da auf Änderungen an Schnittstellen nur verspätet reagiert werden kann.
+
+##Verfügbare Add-ons
+
+Das Repo beinhaltet im Moment folgende Add-ons (klick auf den Add-on Namen führt zu Details):
+
+###Video Add-ons
+
+| Add-on | Webseite |
+| --- | --- |
+| [3sat Mediathek](https://prof-membrane.github.io/3sat_mediathek.html)| http://www.3sat.de/mediathek/ |
+| [ARD Mediathek](https://prof-membrane.github.io/ard_mediathek.html)| http://ardmediathek.de |
+| [BR Mediathek](https://prof-membrane.github.io/br_mediathek.html) | http://www.br.de/mediathek/video/index.html |
+| [Das Erste Mediathek](https://prof-membrane.github.io/daserste_mediathek.html) | http://mediathek.daserste.de/ |
+| [Funk Mediathek](https://prof-membrane.github.io/funk_mediathek.html) | http://www.funk.net |
+| [MDR Mediathek](https://prof-membrane.github.io/mdr_mediathek.html) | http://www.mdr.de/mediathek/index.html |
+| [NHL Videocenter](https://prof-membrane.github.io/nhl_videocenter.html) | http://nhl.com |
+| [Phoenix Mediathek](https://prof-membrane.github.io/phoenix_mediathek.html) | http://www.phoenix.de |
+| [SR Mediathek](https://prof-membrane.github.io/sr_mediathek.html) | http://www.sr-mediathek.de/ |
+| [SWR Mediathek](https://prof-membrane.github.io/swr_mediathek.html) | http://swrmediathek.de/index.htm |
+| [WDR Mediathek](https://prof-membrane.github.io/wdr_mediathek.html) | http://www1.wdr.de/mediathek/video |
+| [WDR Rockpalast](https://prof-membrane.github.io/wdr_rockpalast.html) | http://www1.wdr.de/fernsehen/rockpalast |
+| [ZDF Mediathek](https://prof-membrane.github.io/zdf_mediathek.html) | http://zdf.de |
+
+###Sonstige Add-ons
+
+| Add-on | Funktion |
+| --- | --- |
+| [Unithek](https://prof-membrane.github.io/unithek.html)| Fasst alle Mediatheken unter einen Dach zusammen |
+| [PVR Replay](https://prof-membrane.github.io/pvrreplay.html)| Ermöglich das abspielen von Mediathek Videos aus dem EPG|
+
+Anmerkung: Die Unterseiten sind noch nicht alle erstellt, es gibt noch Links ins nichts.
