@@ -12,4 +12,4 @@ Bitte beachtet die Hinweise unter http://prof-membrane.github.io/howto_bugtracke
 
 ###Screenshots
 
-https://raw.githubusercontent.com/prof-membrane/prof-membrane.github.io/master/screenshots/rockpalast/screenshot001.png
+![](https://raw.githubusercontent.com/prof-membrane/prof-membrane.github.io/master/screenshots/rockpalast/screenshot001.png)
