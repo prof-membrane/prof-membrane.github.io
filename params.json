@@ -1,6 +1,0 @@
-{
-  "name": "WDR Rockpalast Add-on",
-  "tagline": "",
-  "body": "Das Add-on für den WDR Rockpalast stellt Videos über die Mediathek zur Verfügung. Hier gibt es Livemitschnitte aus den letzten 40 Jahren Rockpalast als Video on Demand.\r\n\r\nDie Videos werden nach Jahr sortiert übersichtlich aufgelistet. Im Gegensatz zur WDR Webseite wird auch der Plot direkt dargestellt.\r\n\r\n###Installation\r\n\r\nDas Add-on ist zur Zeit nur über mein Repo erhältlich (http://prof-membrane.github.io/install_repo.html).\r\n\r\n### Bugtracker bei Fehlern\r\n\r\nBitte beachtet die Hinweise unter http://prof-membrane.github.io/howto_bugtracker.html. Hier geht es zum Tracker: https://github.com/prof-membrane/plugin.video.wdrrockpalast.\r\n\r\n###Screenshots\r\n\r\n![](https://raw.githubusercontent.com/prof-membrane/prof-membrane.github.io/master/screenshots/rockpalast/screenshot001.png)",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
