@@ -11,8 +11,8 @@ Das Repo beinhaltet im Moment folgende Add-ons (klick auf den Add-on Namen führ
 
 | Add-on | Webseite |
 | --- | --- |
-| [3sat Mediathek](https://prof-membrane.github.io/3sat_mediathek.html)| http://www.3sat.de/mediathek/ |
-| [ARD Mediathek](https://prof-membrane.github.io/ard_mediathek.html)| http://ardmediathek.de |
+| [3sat Mediathek](https://prof-membrane.github.io/3sat_mediathek.html) | http://www.3sat.de/mediathek/ |
+| [ARD Mediathek](https://prof-membrane.github.io/ard_mediathek.html) | http://ardmediathek.de |
 | [BR Mediathek](https://prof-membrane.github.io/br_mediathek.html) | http://www.br.de/mediathek/video/index.html |
 | [Das Erste Mediathek](https://prof-membrane.github.io/daserste_mediathek.html) | http://mediathek.daserste.de/ |
 | [Funk Mediathek](https://prof-membrane.github.io/funk_mediathek.html) | http://www.funk.net |
@@ -30,6 +30,6 @@ Das Repo beinhaltet im Moment folgende Add-ons (klick auf den Add-on Namen führ
 | Add-on | Funktion |
 | --- | --- |
 | [Unithek](https://prof-membrane.github.io/unithek.html)| Fasst alle Mediatheken unter einen Dach zusammen |
-| [PVR Replay](https://prof-membrane.github.io/pvrreplay.html)| Ermöglich das abspielen von Mediathek Videos aus dem EPG|
+| [PVR Replay](https://prof-membrane.github.io/pvrreplay.html)| Ermöglich das Abspielen von Mediathek Videos aus dem EPG |
 
-Anmerkung: Die Unterseiten sind noch nicht alle erstellt, es gibt noch Links ins nichts.
+Anmerkung: Die Unterseiten sind noch nicht alle erstellt, es gibt noch Links ins Nichts leiten.
